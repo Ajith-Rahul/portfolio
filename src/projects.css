@@ -1,0 +1,36 @@
+.project-container.card, .resume-container.card{
+    margin: auto;
+    margin-bottom: 40px;
+    width: 700px;
+}
+.check-out{
+    margin-top: 7px;
+    background-color: #4dd2ff;
+}
+.check-out a {
+    color: black;
+    text-decoration: none;
+}
+.project-name {
+    border-left: 10px solid #4dd2ff ;
+}
+.header-project, .header-resume{
+    text-align: center;
+    font-weight: 900;
+    margin: 0px 0px 0px 10px;
+}
+.square{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.subtitle {
+    text-align: center;
+    margin-bottom: 50px;
+}
